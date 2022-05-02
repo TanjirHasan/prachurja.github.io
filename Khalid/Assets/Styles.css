@@ -1,0 +1,19 @@
+table{
+    color: red;
+    
+}
+
+.col-12 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.card {
+    background-color: gray;
+    width: 18rem;
+}
+.card-img-top {
+    width: 100px;
+    margin-left: 100px;
+    border-radius: 50px;
+}
